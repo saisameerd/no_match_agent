@@ -37,9 +37,9 @@ pip install -r requirements.txt
 ### 2. Configuration
 ```bash
 # Set environment variables
-export PROJECT=gup-gpi-routing
+export PROJECT=""
 export BQ_LOCATION=us-central1
-export DATASET=gpi_routing
+export DATASET=""
 export GCS_BUCKET_NAME=your-no-match-analysis-artifacts
 export GOOGLE_APPLICATION_CREDENTIALS=path/to/service-account.json
 ```
